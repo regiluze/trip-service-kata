@@ -1,7 +1,5 @@
 package trip_service
 
-import ()
-
 type Trip struct{}
 
 type TripDao struct{}
